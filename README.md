@@ -1,4 +1,4 @@
-spiralx.github.com
+spiralx.github.io
 ==================
 
 Public facing repository
